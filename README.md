@@ -1,10 +1,7 @@
 # sway-client
 Client/consumer for sway services
 
-Sway
+Sway Client is responsible for:
 
-
-Needs
-- configuration
-- plugins
-- actions
+* Client connections to the sway services
+* Actions on the client
