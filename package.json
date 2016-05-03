@@ -8,7 +8,7 @@
         "url" : "http://github.com/jimankrom/sway-client.git"
     },
     "dependencies": {
-        "engine.io": "^1.6.8"
+        "cosinedesign-toolbox": "^0.0.2"
     },
     "devDependencies": {
         "gulp": "^3.9.0",
